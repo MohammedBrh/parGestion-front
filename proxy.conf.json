@@ -1,0 +1,3 @@
+{
+  "/api": { "target": "https://backend-parc-1.onrender.com", "secure": false , "changeOrigin": true}
+}
